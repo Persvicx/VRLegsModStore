@@ -8,7 +8,7 @@ NoImage
 https://example.com
 _
 Android
-UI
+Interface
 Purple Hologram Menu
 A new Rec-Room inspired menu with a cool Purple accent and slightly transparent.
 NoImage
