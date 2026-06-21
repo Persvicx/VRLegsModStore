@@ -1,7 +1,7 @@
 VRLegs Mod Store data file
 _
 Android
-General
+Required
 Patched catalog.json
 Required to make modifications work.
 NoShowcase
