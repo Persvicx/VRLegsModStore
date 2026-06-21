@@ -4,20 +4,20 @@ Android
 General
 Patched catalog.json
 Required to make modifications work.
-NoImage
+NoShowcase
 https://github.com/Persvicx/VRLegsModStore/raw/refs/heads/main/Android/PatchedCatalog.zip
 _
 Android
 Sounds
 Goofy Sound Pack
 Turns VRLegs and it's sound effects into something completly different (and goofy)!
-NoImage
+NoShowcase
 https://github.com/Persvicx/VRLegsModStore/raw/refs/heads/main/Android/GoofySFX.zip
 _
 Android
 Avatar
 Pulse Face Change
 Facial modification for the avatar Pulse.
-NoImage
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/PulseFace.png
 https://github.com/Persvicx/VRLegsModStore/raw/refs/heads/main/Android/PulseFace.zip
 _
