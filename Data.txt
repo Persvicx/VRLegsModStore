@@ -1,0 +1,23 @@
+VRLegs Mod Store data file
+_
+Android
+General
+Patched catalog.json
+Required to make modifications work.
+NoImage
+https://example.com
+_
+Android
+UI
+Purple Hologram Menu
+A new Rec-Room inspired menu with a cool Purple accent and slightly transparent.
+NoImage
+https://example.com
+_
+Android
+Avatar
+Pulse Face Change
+Facial modification for the avatar Pulse.
+NoImage
+https://example.com
+_
