@@ -11,7 +11,7 @@ Android
 Sounds
 Goofy Sound Pack
 Turns VRLegs and it's sound effects into something completly different (and goofy)!
-NoShowcase
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/GoofySFX.mp4
 https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/GoofySFX.zip
 _
 Android
