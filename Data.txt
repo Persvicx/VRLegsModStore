@@ -32,6 +32,6 @@ Android
 Visual
 Purple Holographic Menu
 A nice semi-transparent purple twist to the in-game menu!
-https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/PurpleHolographic.png
-https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/PurpleHolographic.zip
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/PurpHolographic.png
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/PurpHolographic.zip
 _
