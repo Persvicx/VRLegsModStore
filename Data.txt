@@ -21,3 +21,17 @@ Facial modification for the avatar Pulse.
 https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/PulseFace.png
 https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/PulseFace.zip
 _
+Android
+Avatar
+Aech's Nargacuga
+Does this count as self-promotion?
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/PurpleNargacuga.png
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/PurpleNargacuga.zip
+_
+Android
+Visual
+Purple Holographic Menu
+A nice semi-transparent purple twist to the in-game menu!
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/PurpleHolographic.png
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/PurpleHolographic.zip
+_
