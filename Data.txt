@@ -8,13 +8,6 @@ https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets
 https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/PatchedCatalog.zip
 _
 Android
-General
-Different Consoles Position
-Move Consoles somewhere else, so you can use them in peace.
-NoShowcase
-https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/DifferentPosBoards.zip
-_
-Android
 Sounds
 Goofy Sound Pack
 Turns VRLegs and it's sound effects into something completly different (and goofy)!
