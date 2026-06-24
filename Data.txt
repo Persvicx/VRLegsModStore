@@ -4,7 +4,7 @@ Android
 Required
 Patched catalog.json
 Required to make modifications work.
-NoShowcase
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/PatchedCatalog.png
 https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/PatchedCatalog.zip
 _
 Android
