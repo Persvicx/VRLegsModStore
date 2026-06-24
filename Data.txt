@@ -8,11 +8,25 @@ https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets
 https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/PatchedCatalog.zip
 _
 Android
+General
+Different Consoles Position
+Move Consoles somewhere else, so you can use them in peace.
+NoShowcase
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/DifferentPosBoards.zip.zip
+_
+Android
 Sounds
 Goofy Sound Pack
 Turns VRLegs and it's sound effects into something completly different (and goofy)!
 https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/GoofySFX.mp4
 https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/GoofySFX.zip
+_
+Android
+Sounds
+Half-Legs 2
+Rise, and shine, with this half-life 2 inspired sounds replacement!
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/HalfLegs2.png
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/HalfLegs2.zip
 _
 Android
 Avatar
@@ -32,6 +46,6 @@ Android
 Visual
 Purple Holographic Menu
 A nice semi-transparent purple twist to the in-game menu!
-https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/PurpHolographic.png
-https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/PurpHolographic.zip
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/PurpleHolographic.png
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/PurpleHolographic.zip
 _
