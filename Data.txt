@@ -17,7 +17,7 @@ _
 Android
 Sounds
 Half-Legs 2
-Rise, and shine, with this half-life 2 inspired sounds replacement!
+Rise, and shine, with this half-life 2 inspired sounds replacement! WIP
 https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/HalfLegs2.png
 https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/HalfLegs2.zip
 _
