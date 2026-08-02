@@ -43,6 +43,13 @@ https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets
 https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/PurpleNargacuga.zip
 _
 Android
+Avatar
+PurpleBoi
+BestBoi Retexture (credits: ShadowDrakyn)
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/PurpleBoi.png
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/PurpleBoi.zip
+_
+Android
 Visual
 Purple Holographic Menu
 A nice semi-transparent purple twist to the in-game menu!
