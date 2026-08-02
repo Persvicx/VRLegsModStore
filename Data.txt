@@ -22,6 +22,13 @@ https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets
 https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/HalfLegs2.zip
 _
 Android
+Sounds
+No Wind
+Stop your ears from bleeding by removing the wind sound when running.
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/NoWind.png
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/NoWind.zip
+_
+Android
 Avatar
 Pulse Face Change
 Facial modification for the avatar Pulse.
