@@ -44,6 +44,13 @@ https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Androi
 _
 Android
 Avatar
+Something Nargacuga
+UNDER CONSTRUCTION WIP | DON'T APPLY
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/SomethingNargacuga.png
+https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Android/SomethingNargacuga.zip
+_
+Android
+Avatar
 PurpleBoi
 BestBoi Retexture (credits: ShadowDrakyn)
 https://raw.githubusercontent.com/Persvicx/VRLegsModStore/refs/heads/main/Assets/PurpleBoi.png
